@@ -5,7 +5,7 @@
 <a href="https://996.icu"><img src="https://img.shields.io/badge/link-996.icu-red.svg" alt="996.icu"></a>
 
 ## Requirement
-* Python 2.7 and 3.4+
+* Python 2.7 and 3.6+
 
 ## Installation
   Get *deribit-api-clients*
