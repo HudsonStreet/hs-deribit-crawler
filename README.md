@@ -12,7 +12,7 @@
   ```
   git clone https://github.com/deribit/deribit-api-clients
   ```
-  Copy the python folder into the hs-loader project and then install the client
+  Copy the python folder into the hs-deribit-crawler project and then install the client
   ```
   python setup.py install --user
   ```
